@@ -92,3 +92,5 @@ let result = (num21 > 0) ? `${num21} is Positive` : `${num21} is Negative `;
 console.log(result) ;
 
 
+
+// Completed all the chellanges of Day 2
