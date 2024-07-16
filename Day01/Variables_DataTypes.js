@@ -49,3 +49,7 @@ console.log(compnay) ;
 const role = "Associate" ;
 role = "Senior Developer" ;
 console.log(role) ; // error message assignment to the constant variable
+
+
+
+// Completed al the tasks of the Day 1 .
