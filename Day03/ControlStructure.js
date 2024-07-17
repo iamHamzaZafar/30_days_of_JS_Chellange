@@ -93,4 +93,4 @@ console.log(
   isLeapYear ? `${year} is a Leap Year` : `${year} is not a Leap Year`
 );
 
-// completed all the tasks of day 4 .
+// completed all the tasks of day 4.
