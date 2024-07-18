@@ -81,3 +81,22 @@ higherOrder(sayHello , 6)
 
 // Task 10: Wite a function that takes two functions and a number as arguments applies first function to the value and then applies the second function to the value to the results.
 
+function add (val) {
+    return  val + 5 ;
+}
+
+function  subtract (val) {
+    return  val - 3 ;
+}
+
+
+ const lastTask = (add , sub , value) =>{
+    const firstResult = add(value) ;
+    const secondResult = sub(firstResult) ;
+    return secondResult ; 
+ }
+
+ console.log(lastTask(add , subtract , 10)) ;
+
+ // Completed Day-05 all tasks
+ 
