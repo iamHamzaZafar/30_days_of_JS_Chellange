@@ -84,4 +84,6 @@ console.log(multiDimensionalArray[0][2]);
 console.log(multiDimensionalArray[1][1]);
 console.log(multiDimensionalArray[2][0]);
 
+// completed fay 06
+
 
