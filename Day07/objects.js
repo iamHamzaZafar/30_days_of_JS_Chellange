@@ -57,5 +57,5 @@ console.log(Object.keys(book));
 console.log('-----')
 console.log(Object.values(book));
 
-
+// Day 07 completed ;
 
